@@ -6,7 +6,7 @@ A partir desses datasets, realizei uma analise exploratória bastante simples, a
 
 O **objetivo** desta exploração e analise é colocar em prática alguns conceitos básicos de <code>pandas</code>, de escrita em <code>markdown</code>, utilização do <code>github</code> para armazenamento dessa analise e, não menos importante, a explicação dos resultados encontrados. 
 
-Outro destaque, é que essa analise exploratória foi feita durante o curso de *Associate Data Scientist in Python* da escola **[datacamp](datacamp.com)**.
+Outro destaque, é que essa analise exploratória foi feita durante o curso de *Associate Data Scientist in Python* da escola **[datacamp](https://www.datacamp.com/)**.
 
 ## Descrição dos datasets
 
